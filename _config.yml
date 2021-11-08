@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Panduan Layanan Domain Murah .Biz.ID
 description: AtoZ bagi member
-domain: kandraisme.github.io
+#domain: kandraisme.github.io
 url: https://kandraisme.github.io
-baseurl: /
+#baseurl: /
