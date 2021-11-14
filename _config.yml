@@ -1,5 +1,5 @@
-theme: minima
-#remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+#theme: minima
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 title: Panduan Layanan Domain Murah .Biz.ID
 description: AtoZ bagi member
 #domain: kandraisme.github.io
