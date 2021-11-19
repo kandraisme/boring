@@ -2,6 +2,6 @@
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 title: Kandraisme
 description: a jobless person who learn something new
-#domain: kandraisme.github.io
+permalink: /:title
 url: https://kandraisme.github.io
 #baseurl: /
